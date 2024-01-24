@@ -1,16 +1,23 @@
-### Hi there 👋
+# Josimar Volpini
 
-<!--
-**Josimar-Volpini/Josimar-Volpini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
+Moro em Juiz de Fora - MG. Tenho 36 anos. Sou graduado em Ciência da Computação pela Universidade Federal de Juiz de Fora e possuo especialização em Desenvolvimento Web Full Stack pela Pontifícia Universidade Católica de Minas Gerais.
 
-Here are some ideas to get you started:
+## Histórico Profissional
+👩‍💻 Trabalho, atualmente, no cargo de Analista de Tecnologia da Informação na Universidade Federal de Juiz de Fora. Trabalhei como Analista de Sistemas na Prefeitura de Juiz de Fora.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades
+Javascript;
+HTML;
+CSS;
+SCSS;
+Angular;
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram)](https://twitter.com/)
+
+[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github)](https://twitter.com/)
